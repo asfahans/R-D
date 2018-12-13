@@ -4,4 +4,5 @@ An app for my motorcycle riding club, Royal Indian Devotes (R!D) for all Ridians
 Development Tools: PhoneGap, Php, MySQL, jQuery, HTML, CSS, Adobe XD CC
 
 Team Size: 1
+
 Completed in less than a month
